@@ -1,0 +1,232 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* ======================****************======================= */
+
+
+
+/* ======================header section start======================= */
+header{
+    margin-top: 20px;
+}
+
+li.nav-item {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.btn-primary{
+    height: 56px;
+    width: 190px;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    background-color: #B68C5A !important;
+    border-radius: 5px !important;
+    border: 0px solid #B68C5A !important;
+}
+
+.headerMenu:hover{
+    color: #B68C5A !important;
+}
+/* ======================header section end======================= */
+
+
+
+
+
+/* ======================banner section start======================= */
+.bannerTitle{
+    font-family: EB Garamond;
+    font-size: 65px;
+    font-weight: 800;
+    line-height: 70px;
+    letter-spacing: 0em;
+    color: #fff;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+ .bannerDescription {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #fff;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.searchOption{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.searchBar {
+    color: #A0A0A0;
+    padding-left: 20px;
+    height: 60px;
+    width: 400px !important;
+    line-height: 26px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.searchButton{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #A0A0A0;
+}
+/* ======================banner section end======================= */
+
+
+/* =============================Grid Section Start==================== */
+
+h1.legalPracticearea {
+    font-family: EB Garamond;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 52px;
+    color: #414040;
+}
+
+p.legalPracticeareaDescription {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #707070;
+}
+
+
+.linearGradient{
+    background-image: linear-gradient(#f3f3f3, #fff);
+
+}
+
+.gridTitle {
+    font-family: EB Garamond;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 42px;
+    letter-spacing: 0em;
+    color: #414040;
+}
+
+p.gridDescription {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #707070;
+}
+
+.fa-arrow-right {
+    width: 30px;
+    height: 30px;
+    padding-top: 15px;
+    border-radius: 50%;
+    background-color: #B68C5A;
+    color: #fff;
+}
+/* =============================Grid Section End==================== */
+
+
+
+/* =============================Client Section Start==================== */
+h1.clientSpeechtitle {
+    font-family: EB Garamond;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 52px;
+    color: #414040;
+}
+
+p.clientSpeechdescription {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #707070;
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.rounded-circle {
+    border-radius: 50%!important;
+    width: 75px;
+    height: 75px;
+    border: 4px solid #fff;
+}
+/* =============================Client Section End==================== */
+
+
+/* =============================FAQ Section Start==================== */
+.faqtitle {
+    font-family: EB Garamond;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 52px;
+    color: #414040;
+}
+
+.faqdescription{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #707070;
+}
+/* =============================FAQ Section End==================== */
+
+
+
+
+/* =============================Footer Section start==================== */
+
+.footer{
+    background-color: #000;
+    color: #CFCFCF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 100%;
+    padding-top: 60px;
+    width: 1500px;
+    margin-left: -100px;
+}
+
+.footerTitle{
+    font-family: EB Garamond;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 31px;
+}
+
+ul.footerMenu li{
+    list-style: none;
+}
+
+.footerSearchbutton{
+    width: 46px ;
+    height: 38px;
+}
+
+
+/* =============================Footer Section End==================== */
+
+ 
